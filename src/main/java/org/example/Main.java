@@ -1,6 +1,5 @@
 package org.example;
 
-import io.reactivex.rxjava3.core.Scheduler;
 import io.reactivex.rxjava3.schedulers.Schedulers;
 import org.example.notifications.CartNotification;
 import org.example.notifications.SaleNotification;
